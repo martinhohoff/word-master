@@ -4,7 +4,7 @@
 
 (Versão traduzida do jogo https://octokatherine.github.io/word-master/ )
 
-Fortemente inspirado by [Wordle] (https://www.powerlanguage.co.uk/wordle/), Word Master é um jogo de adivinhação de palavras similar a Mastermind. 
+Fortemente inspirado pelo [Wordle] (https://www.powerlanguage.co.uk/wordle/), Word Master é um jogo de adivinhação de palavras similar a Mastermind. 
 
 ## Regras
 
